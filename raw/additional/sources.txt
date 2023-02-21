@@ -1,0 +1,8 @@
+us fares: https://www.transtats.bts.gov/AverageFare/
+
+us fuel consumption:
+	 https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FMH&QO_fu146_anzr=Nv4+Pn44vr4+Sv0n0pvny 
+	https://www.transtats.bts.gov/Tables.asp?QO_VQ=EGI&QO_anzr=Nv4%FDPn44vr4%FDSv0n0pvny%FDer21465%FD%FLS14z%FDHE%FDSv0n0pvny%FDQn6n%FM&QO_fu146_anzr=Nv4%FDPn44vr4%FDSv0n0pvny
+ (schedule p-12-a)
+
+eu c02 emmissions: https://ansperformance.eu/reference/dataset/emissions/
